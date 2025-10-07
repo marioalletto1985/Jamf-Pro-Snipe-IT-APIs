@@ -18,7 +18,7 @@ The entire process is powered by API automation, ensuring reliability, speed, an
 
 🧠 Tech Stack
 
-Jamf Pro API (for device enrollment and management data)
+Jamf Pro (for device enrollment and management data)
 
 Snipe-IT API (for asset tagging and status updates)
 
